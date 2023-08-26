@@ -90,6 +90,7 @@ a {
 #picchio {
 	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
 	background-color:#5cbf2a;
+    font-family: 'ADLaM Display', cursive;
 }
 
 #picchio:active {
@@ -100,4 +101,11 @@ a {
 .action-button{
     display: flex;
     justify-content: center;
+}
+
+#display{
+    position: relative;
+    bottom: 100px;
+    left: 100px;
+    font-family:'ADLaM Display', cursive;
 }
