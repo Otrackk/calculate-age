@@ -27,7 +27,7 @@ else if(counter ==25){
     document.querySelector("#display").innerHTML = '"Ah, continuiamo...? Ok"';
 }
 else if(counter ==30){
-    document.querySelector("#display").innerHTML = '"Va bene amore, continuiamo"';
+    document.querySelector("#display").innerHTML = '"Va bene amore, continuiamo.."';
 }
 
 }
